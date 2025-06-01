@@ -1,0 +1,24 @@
+# default values
+
+ROTATE_DEFAULT = 0
+SCALE_DEFAULT = 1.0
+SPACING_DEFAULT = 1.0
+TILE_DEFAULT = False
+OPACITY_DEFAULT = 1.0
+LOGO_X = 200
+LOGO_Y = 200
+
+# Colors
+BACKGROUND_COLOR = '#242424'
+WHITE = '#FFF'
+GREY = 'grey'
+BLUE = '#1f6aa5'
+DARK_GREY = '#4a4a4a'
+CLOSE_RED = '#8a0606'
+SLIDER_BG = '#64686b'
+GREEN_FG = '#27ae60'
+GREEN_HV = '#1e8449'
+RED_FG = '#e74c3c'
+RED_HV = '#c0392b'
+GREY_DB = '#bdc3c7'
+TEXT_DB = '#7f8c8d'
