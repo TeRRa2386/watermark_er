@@ -1,8 +1,8 @@
-# H2O-Maker 🖼💧
+# H2O-Maker
 
 H2O-Maker is a lightweight desktop application built with Python and `customtkinter` that allows users to watermark images with custom logos. It supports manual placement or tiling mode, rotation, scaling, opacity adjustment, and export options.
 
-## ✨ Features
+## Features
 
 - Import an image and a logo (supports PNG, JPG, etc.)
 - Drag the logo manually or tile it over the image
@@ -13,13 +13,13 @@ H2O-Maker is a lightweight desktop application built with Python and `customtkin
   - Opacity
 - Save the final watermarked image
 
-## 🛠 Technologies
+## Technologies
 
 - Python 3.x
 - `customtkinter`
 - `Pillow` (PIL)
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Installation
 
@@ -59,7 +59,7 @@ pyinstaller main.spec
 
 This will generate the app inside the `dist/` folder.
 
-## 📦 Folder Structure
+## Folder Structure
 
 ```
 h2o-maker/
@@ -72,10 +72,10 @@ h2o-maker/
 └── README.md
 ```
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License. Feel free to use and modify it.
 
 ---
 
-Created with ❤️ by Juan Silva.
+Created by Juan Silva. xD
